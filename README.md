@@ -1,6 +1,8 @@
 # Python-Django-Learning-Project
 <b>HOSPITAL MANAGEMENT</b>
 <hr>
+SCREENSHOTS
+
 HOME PAGE
 
 ![home page](https://user-images.githubusercontent.com/106687804/174122981-68ad7a91-203a-464a-b5f4-1f7c4cc0bc8d.png)
