@@ -1,4 +1,4 @@
-# Python-Django-Learning-Project
+# Hospital Mnagement
 <b>HOSPITAL MANAGEMENT</b>
 <hr>
 SCREENSHOTS
